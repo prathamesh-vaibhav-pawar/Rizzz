@@ -1,0 +1,26 @@
+body{
+    background-color: #2b2b2b;
+}
+#Ques,#Continue{
+    color: white;
+}
+.container2{
+    background-color: black;
+    width: 40%;
+    height: 30%;
+    border-radius: 10px;
+}
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+/* Hover effect */
+a:hover {
+    background-color: #2980b9;
+}
